@@ -5,5 +5,6 @@ jQuery
 
 JS
 `<script src="acessibilidade.js" type="text/javascript"></script>`
+
 CSS
 `<link href="acessibilidade.css" rel="stylesheet" type="text/css">`
