@@ -4,9 +4,9 @@ Script simples que adiciona recursos de acessibilidade padrão eMAG (Modelo de A
 
 * Alto contraste
 * Aumentar / diminuir fonte
-* Ir para conteúdo principal, busca, menu de navegação e rodapé
+* Ir para: conteúdo principal, busca, menu de navegação e rodapé
 * Atalho para o VLibras
-* Atalho para a página de acessibilidade
+* Atalho para a página padrão de acessibilidade
 
 ## Dependências
 
