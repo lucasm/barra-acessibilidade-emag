@@ -8,18 +8,19 @@ Script simples que adiciona recursos de acessibilidade padrão eMAG (Modelo de A
 * Atalho para o VLibras
 * Atalho para a página de acessibilidade
 
-### Dependências
+## Dependências
 
 jQuery
 `<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>`
 
-### Incluir
+## Incluir
 
 JS
 `<script src="acessibilidade.js"></script>`
+
 CSS
 `<link href="acessibilidade.css" rel="stylesheet">`
 
-### Licensa
+## Licensa
 
 MIT
