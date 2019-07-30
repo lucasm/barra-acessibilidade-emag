@@ -12,6 +12,7 @@ Script simples que adiciona controles para os recursos de acessibilidade do padr
 
 jQuery
 `<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>`
+
 Font Awesome
 `<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></script>`
 
