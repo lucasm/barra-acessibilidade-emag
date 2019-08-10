@@ -6,7 +6,7 @@ Acessibilidade significa permitir que todas as pessoas, inclusive pessoas com de
 
 Na internet, acessibilidade refere-se principalmente às recomendações do WCAG (Diretrizes de Acessibilidade para o Conteúdo da Web (link é externo)) definidas pela W3C, organização de padronização da web, e no caso do Governo Brasileiro ao eMAG (Modelo de Acessibilidade em Governo Eletrônico (link é externo)). O eMAG está alinhado às recomendações internacionais, mas estabelece um padrão de comportamento acessível para sites governamentais.
 
-Na parte superior do portal do TCM-PA existe uma barra de acessibilidade onde se encontram atalhos de navegação padronizados, e opções para alterar o contraste e o tamanho do texto. Essas ferramentas estão disponíveis em todas as páginas do portal e podem ser rapidamente acessadas pelas teclas de atalho.
+Na parte superior do portal existe uma barra de acessibilidade onde encontram-se atalhos de navegação padronizados, e opções para alterar o contraste e o tamanho do texto. Essas ferramentas estão disponíveis em todas as páginas do portal e podem ser rapidamente acessadas pelas teclas de atalho abaixo.
 
 ### Teclas de atalho:
 
@@ -38,12 +38,12 @@ Safari: `Cmd + Alt + número`
 
 ### Tradutor VLibras
 
-O portal do TCM-PA é compátivel com o "VLibras", programa de tradução de Português para a Língua Brasileira de Sinais (Libras). Com o VLibras é possível traduzir texto, áudio e vídeo para a Língua Brasileira de Sinais, tornando conteúdos digitais acessíveis para pessoas surdas. Para baixar a extensão para navegadores ou o aplicativo do VLibras clique aqui (link é externo).
+O portal é compátivel com o "VLibras", programa de tradução de Português para a Língua Brasileira de Sinais (Libras). Com o VLibras é possível traduzir texto, áudio e vídeo para a Língua Brasileira de Sinais, tornando conteúdos digitais acessíveis para pessoas surdas. Para baixar a extensão para navegadores ou o aplicativo do VLibras [clique aqui](https://vlibras.gov.br/).
 
 ### Leitor de Tela NVDA
 
-O TCM-PA recomenda a utilização do programa leitor de tela "NVDA" para ler em áudio os conteúdos exbidos no portal, facilitando a compreensão para pessoas com deficiência visual. Para saber mais sobre o funcionamento do NVDA clique aqui (link é externo).
+O portal recomenda a utilização do programa leitor de tela "NVDA" para ler em áudio os conteúdos exbidos no portal, facilitando a compreensão para pessoas com deficiência visual. Para saber mais sobre o funcionamento do NVDA [clique aqui](http://www.londrina.pr.gov.br/dados/images/stories/Storage/cmdpd/NVDA/manual_NVDA.pdf).
 
 ### Dúvidas, críticas e sugestões
 
-O TCM-PA está empenhado em garantir que todos os cidadãos e jurisdicionados utilizem o portal sem restrições. Se você encontrou alguma dificuldade de acesso ao portal, por favor, entre em contato conosco clicando aqui, queremos ouvir o seu relato.
+O TCM-PA está empenhado em garantir que todos os cidadãos e jurisdicionados utilizem o portal sem restrições. Se você encontrou alguma dificuldade de acesso ao portal, por favor, entre em contato conosco [clicando aqui](/contato), queremos ouvir o seu relato.
