@@ -1,4 +1,4 @@
-# Acessibilidade eMAG
+# Barra de Acessibilidade eMAG
 
 Adiciona controles de acessibilidade a sites e aplicações Web seguindo o padrão eMAG (Modelo de Acessibilidade em Governo Eletrônico) desenvolvido pelo Governo do Brasil.
 
