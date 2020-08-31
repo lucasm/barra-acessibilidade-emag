@@ -1,14 +1,15 @@
 # Acessibilidade eMAG
 
-Adiciona controles de acessibilidade seguindo o padrão eMAG (Modelo de Acessibilidade em Governo Eletrônico) a sites e aplicações web.
+Adiciona controles de acessibilidade a sites e aplicações Web seguindo o padrão eMAG (Modelo de Acessibilidade em Governo Eletrônico) desenvolvido pelo Governo do Brasil.
 
 ### Opções de acessibilidade 
 
-- Alto contraste
-- Aumentar / diminuir fonte
-- Ir para conteúdo principal, barra de busca, menu de navegação e rodapé
-- Atalho para o aplicativo VLibras
-- Atalho para a página padrão de acessibilidade
+- Botão de alto contraste
+- Botão para aumentar / diminuir fonte
+- Links "ir para" conteúdo principal, barra de busca, menu de navegação e rodapé
+- Link para o aplicativo leitor de tela VLibras
+- Link para a página padrão de acessibilidade
+- Teclas de atalho (Alt + 1, 2, 3 etc)
 
 ### Dependências
 
