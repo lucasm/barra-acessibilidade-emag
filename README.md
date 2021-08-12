@@ -1,29 +1,21 @@
 # Barra de Acessibilidade eMAG
 
-Adiciona controles de acessibilidade a sites e aplicações Web seguindo o padrão eMAG (Modelo de Acessibilidade em Governo Eletrônico) desenvolvido pelo Governo do Brasil.
+Adiciona uma barra no topo da página Web com controles de acessibilidade de acordo com o padrão eMAG (Modelo de Acessibilidade em Governo Eletrônico) instituído e recomendado pelo Governo do Brasil.
 
-### Opções de acessibilidade 
+### Funções
 
 - Botão de alto contraste
-- Botão para aumentar / diminuir fonte
-- Links "ir para" conteúdo principal, barra de busca, menu de navegação e rodapé
-- Link para o aplicativo leitor de tela VLibras
-- Link para a página padrão de acessibilidade
+- Botão para aumentar / diminuir tamanho da fonte
+- Links "ir para": conteúdo principal, barra de busca, menu de navegação e rodapé
+- Link para o aplicativo leitor de tela [VLibras](https://www.gov.br/governodigital/pt-br/vlibras/)
+- Link para a página padrão de Acessibilidade
 - Teclas de atalho (Alt + 1, 2, 3 etc)
+- Texto padrão de Acessibilidade
 
-### Dependências
+### Como usar?
 
-- jQuery `<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>`
-- Font Awesome `<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></script>`
-
-### Incluir
+Incluir as chamadas:
 
 CSS `<link href="acessibilidade.css" rel="stylesheet">`
 
 JS `<script src="acessibilidade.js"></script>`
-
-### Outros recursos de acessibilidade
-
-- [VLibras](http://www.vlibras.gov.br)
-- [Hand Talk](https://www.handtalk.me/)
-- [Rybená](http://portal.rybena.com.br)
